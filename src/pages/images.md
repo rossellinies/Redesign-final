@@ -1,12 +1,8 @@
 ---
+layout: layouts/images.html
 pageTitle: Images
 navTitle: Images
-pageClass: pictures
 date: 2019-02-01
-images:
-  - apples.png
-  - apples-red.png
-  - apples-group.png
 ---
 
 {% for filename in images %}
